@@ -1,5 +1,5 @@
 body {
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family: "system-ui";
     text-align: center;
 }
 
@@ -83,4 +83,5 @@ a[href="/leaderboards"] {
     display: none !important;
 
 }
+
 
