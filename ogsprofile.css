@@ -10,7 +10,7 @@ body {
 
 .avatar-container .Player-username {
     font-size: 2em;
-    font-family: "Comic Sans MS", cursive, serif;
+    font-family: "system-ui", cursive, serif;
 }
 
 h2, h3 {
@@ -81,4 +81,5 @@ h2, h3 {
 /* clean up the menu */
 a[href="/leaderboards"] {
     display: none !important;
+
 }
